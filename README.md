@@ -1,4 +1,4 @@
-ANTRadioService
+ANT Radio Service 4.3.0
 ===============
 
 This repository currently only contains the prebuilt (.apk) version of the ANT Radio Service for Android. The ANT Radio Service allows apps to communicate with ANT wireless hardware built in to phones or external adapters such as an ANT USB stick.
